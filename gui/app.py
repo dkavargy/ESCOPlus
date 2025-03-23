@@ -1,65 +1,109 @@
-# app.py
-
 import streamlit as st
-import pandas as pd
 
-# Load the proposed skills data
-@st.cache_data
-def load_data():
-    try:
-        df = pd.read_csv("data/processed/proposed_skills.csv")
-    except FileNotFoundError:
-        st.error("Data file not found. Please make sure 'proposed_skills.csv' exists.")
-        return pd.DataFrame()
-    return df
+# Set page config
+st.set_page_config(page_title="ESCOPlus | Python", layout="centered")
 
-# App layout
-st.set_page_config(page_title="ESCOPlus Viewer", layout="wide")
+# ---------- Top Navigation Bar ----------
+with st.container():
+    st.markdown("""
+        <style>
+            .topnav {
+                background-color: #ffa733;
+                overflow: hidden;
+                padding: 10px 20px;
+                font-family: 'Segoe UI', sans-serif;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                color: white;
+                font-weight: 600;
+                border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+            }
+            .topnav a {
+                margin: 0 20px;
+                text-decoration: none;
+                color: white;
+            }
+            .menu {
+                font-size: 1.5em;
+                font-weight: bold;
+            }
+        </style>
+        <div class="topnav">
+            <div class="menu">EscoPlus⁺</div>
+            <div>
+                <a href="#">ESCOPlus Hub</a>
+                <a href="#">Trends</a>
+                <a href="#">New skills</a>
+            </div>
+        </div>
+    """, unsafe_allow_html=True)
 
-st.title("🚀 ESCOPlus Framework GUI")
-st.markdown("""
-Explore proposed **alternative** and **new skills** detected from Stack Overflow and integrated into the ESCOPlus taxonomy.
-""")
+# ---------- Main Card Container ----------
+with st.container():
+    st.markdown("""
+        <style>
+            .card {
+                background-color: #52697e;
+                color: white;
+                border-radius: 10px;
+                padding: 25px;
+                font-family: 'Segoe UI', sans-serif;
+                margin-top: -10px;
+            }
+            .card h2 {
+                text-align: center;
+                margin-bottom: 0;
+            }
+            .section-title {
+                font-size: 18px;
+                margin-top: 30px;
+                margin-bottom: 10px;
+                font-weight: bold;
+                border-bottom: 1px solid #d4a759;
+                padding-bottom: 3px;
+            }
+            .label-container {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+            .skill-label {
+                background-color: #0d47a1;
+                padding: 8px 14px;
+                border-radius: 6px;
+                color: white;
+                font-size: 14px;
+                font-weight: 500;
+                display: inline-block;
+            }
+            .description {
+                font-size: 15px;
+                color: #ddd;
+                margin-top: 10px;
+            }
+        </style>
 
-# Load data
-df = load_data()
+        <div class="card">
+            <h2>Python (Programming Language)</h2>
+            <div class="description">
+                The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python.
+            </div>
 
-if not df.empty:
-    # Sidebar filters
-    st.sidebar.header("🔍 Filter Options")
+            <div class="section-title">Alternative labels</div>
+            <div class="label-container">
+                <div class="skill-label">python-jira</div>
+                <div class="skill-label">python3.10</div>
+                <div class="skill-label">python-import</div>
+            </div>
 
-    label_filter = st.sidebar.multiselect(
-        "Select Label(s):",
-        options=df["Label"].unique(),
-        default=df["Label"].unique()
-    )
-
-    cluster_filter = st.sidebar.multiselect(
-        "Select Cluster(s):",
-        options=df["Cluster"].unique(),
-        default=df["Cluster"].unique()
-    )
-
-    confidence_threshold = st.sidebar.slider(
-        "Minimum Confidence Score:",
-        min_value=0.0, max_value=1.0, value=0.6, step=0.05
-    )
-
-    similarity_threshold = st.sidebar.slider(
-        "Minimum Similarity Score:",
-        min_value=0.0, max_value=1.0, value=0.7, step=0.05
-    )
-
-    # Apply filters
-    filtered_df = df[
-        (df["Label"].isin(label_filter)) &
-        (df["Cluster"].isin(cluster_filter)) &
-        (df["Confidence Score"].fillna(1.0) >= confidence_threshold) &
-        (df["Similarity Score"].fillna(1.0) >= similarity_threshold)
-    ]
-
-    st.subheader("📋 Filtered Skill Suggestions")
-    st.dataframe(filtered_df.reset_index(drop=True), use_container_width=True)
-
-else:
-    st.warning("No data loaded yet. Please process and export the proposed skills first.")
+            <div class="section-title">New skills</div>
+            <div class="label-container">
+                <div class="skill-label">deep learning</div>
+                <div class="skill-label">python-logging</div>
+                <div class="skill-label">django</div>
+                <div class="skill-label">pytest</div>
+            </div>
+        </div>
+    """, unsafe_allow_html=True)

@@ -47,7 +47,7 @@ ESCOPlus also includes an intuitive web-based GUI to explore and validate skills
 
 ### 📸 GUI Preview
 
-![ESCOPlus GUI](docs/screenshots/gui_demo.png)
+![ESCOPlus GUI](gui_of_escoplus.png)
 
 
 

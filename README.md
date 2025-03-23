@@ -10,7 +10,7 @@ ESCOPlus follows a three-phase methodology:
 2. **ACTION**: Apply association rule mining and cosine similarity to detect alternative and new skills.
 3. **PLAN**: Validate skills with expert feedback and integrate them into a structured extension of the ESCO taxonomy.
 
-![ESCOPlus GUI](gui_of_escoplus.png)
+![ESCOPlus schema](esco_plus_schemas.png)
 
 ## 📁 Project Structure
 

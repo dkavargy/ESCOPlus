@@ -1,0 +1,82 @@
+ESCO Skill,Non-ESCO Skill,Similarity Score
+erlang,erlang-otp,0.6894153510393829
+pentaho data integration,pentaho-data-integration,1.0
+assemble windows,windows-7,0.6531183454165229
+assemble windows,windows-8,0.6531183454165229
+postgresql,postgresql-9.3,1.0
+postgresql,postgresql-9.2,1.0
+postgresql,postgresql-9.6,1.0
+postgresql,postgresql-9.4,1.0
+postgresql,postgresql-9.5,1.0
+linq,linq-to-xml,0.6370663518764247
+linq,linq-to-sql,0.6528008598222629
+linq,linq-to-entities,0.605597735941974
+perl,perl-data-structures,0.6283357604345948
+asp.net,asp.net-core-1.0,0.7882657284341864
+asp.net,.net-4.0,0.6676503034199771
+asp.net,asp.net-mvc,0.768237466900781
+asp.net,asp.net-mvc-3,0.768237466900781
+asp.net,asp.net-identity,0.7438468743178741
+asp.net,asp.net-core-5.0,0.7882657284341864
+asp.net,asp.net-core-webapi,0.6239825220552886
+asp.net,.net-4.5,0.6676503034199771
+asp.net,asp.net-core-mvc,0.6588452182111852
+asp.net,asp.net-core,0.7882657284341864
+asp.net,asp.net-mvc-4,0.768237466900781
+asp.net,asp.net-mvc-5,0.768237466900781
+asp.net,.net-3.5,0.6676503034199771
+asp.net,asp.net-web-api2,0.6307882828387846
+asp.net,asp.net-web-api,0.7114614797548043
+common lisp,common-lisp,1.0
+ldap,ldap-query,0.7383787211358678
+hadoop,hadoop-yarn,0.6894153510393829
+typescript,typescript-generics,0.7071067811865476
+apache maven,maven-3,0.7552209453654334
+apache maven,maven-2,0.7552209453654334
+drupal,drupal-7,1.0
+geometry,boost-geometry,0.7332147020919654
+geometry,computational-geometry,0.676064438844099
+mysql,mysql-workbench,0.676064438844099
+mysql,mysql-5.7,1.0
+xcode,xcode-ui-testing,0.6387165130703757
+db2,db2-luw,0.6894153510393829
+objective-c,objective-c-blocks,0.665227840600508
+objective-c,objective-c-runtime,0.6966491611305664
+matlab,matlab-figure,0.6894153510393829
+autocad,autocad-plugin,0.7516953206185837
+css,css-selectors,0.605197639523641
+css,css-shapes,0.605197639523641
+css,css-filters,0.605197639523641
+css,css-calc,0.605197639523641
+css,css-position,0.6241076537947804
+css,css-animations,0.605197639523641
+css,css-sprites,0.605197639523641
+css,tailwind-css,0.605197639523641
+css,css-grid,0.64908940642652
+css,css-float,0.605197639523641
+css,css-frameworks,0.6241076537947804
+css,css-transitions,0.605197639523641
+broadcast equipment,android-broadcast,0.6634471491078441
+javascript,facebook-javascript-sdk,0.6307032006394422
+wordpress,wordpress-theming,0.6894153510393829
+php,php-7,1.0
+php,php-5.6,1.0
+php,composer-php,0.6480556679962624
+php,php-5.2,1.0
+agile project management,project-management,0.7538415887301969
+ansible,ansible-2.x,1.0
+ansible,ansible-template,0.6983380576365533
+ansible,ansible-inventory,0.6743862870593977
+ansible,ansible-facts,0.6560497729011173
+perform online data analysis,data-analysis,0.6639703234684908
+angular,angular-material,0.6452704735481763
+angular,angular-universal,0.6341722246047228
+angular,angular-services,0.6912100355731025
+angular,angular-material2,0.6013014634715789
+angular,angular-resolver,0.6013014634715789
+angular,angular-ui,0.6996812147915731
+angular,angular-cli,0.6545248566369194
+angular,angular-moment,0.6013014634715789
+angular,angular-ngmodel,0.6013014634715789
+angular,angular-components,0.6757000422515823
+microsoft visual c++,visual-c++,0.6573850616182911

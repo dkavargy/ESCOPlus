@@ -1,0 +1,536 @@
+Source,Target,Confidence
+composer-php,php,1.0
+scikit-learn,python (computer programming),1.0
+pyqt,python (computer programming),1.0
+javafx-2,write javanese,1.0
+ipython,python (computer programming),1.0
+django-admin,python (computer programming),1.0
+angular6,angular,1.0
+python-asyncio,python (computer programming),1.0
+retrofit,android (mobile operating systems),1.0
+dagger-2,android (mobile operating systems),1.0
+google-chrome-extension,javascript,1.0
+android-edittext,android (mobile operating systems),1.0
+google-play-services,android (mobile operating systems),1.0
+blur,css,1.0
+r-sf,supervise correctional procedures,1.0
+android-jetpack-compose,android (mobile operating systems),0.9473684210526315
+pyspark,python (computer programming),0.9444444444444444
+android-fragments,android (mobile operating systems),0.9318181818181818
+android-room,android (mobile operating systems),0.9230769230769231
+r-markdown,supervise correctional procedures,0.9166666666666666
+android-widget,android (mobile operating systems),0.9090909090909091
+react-router,javascript,0.9
+python-imaging-library,python (computer programming),0.9
+android-ndk,android (mobile operating systems),0.9
+azure-devops,c#,0.8888888888888888
+android-architecture-components,android (mobile operating systems),0.8888888888888888
+project-reactor,write javanese,0.875
+android-appcompat,android (mobile operating systems),0.875
+entity-framework-core,c#,0.875
+phpstorm,php,0.875
+angular-cli,angular,0.8571428571428571
+scipy,python (computer programming),0.8571428571428571
+knitr,supervise correctional procedures,0.8461538461538461
+windows-phone-8,c#,0.8461538461538461
+react-hooks,javascript,0.8461538461538461
+ggplot2,supervise correctional procedures,0.8360655737704918
+xaml,c#,0.8333333333333334
+excel-formula,pursue excellence in the creation of food products,0.8333333333333334
+machine-learning,python (computer programming),0.8333333333333334
+pytorch,python (computer programming),0.8333333333333334
+zend-framework2,php,0.8235294117647058
+sharepoint,c#,0.8181818181818182
+cocoapods,biosecurity related to animals,0.8
+backbone.js,javascript,0.8
+tkinter,python (computer programming),0.7931034482758621
+jupyter-notebook,python (computer programming),0.7916666666666666
+phpunit,php,0.7894736842105263
+xamarin.forms,c#,0.7894736842105263
+pytest,python (computer programming),0.7857142857142857
+zend-framework,php,0.7857142857142857
+matplotlib,python (computer programming),0.7802197802197802
+razor,c#,0.7777777777777778
+uwp,c#,0.7777777777777778
+virtualenv,python (computer programming),0.7777777777777778
+cuda,microsoft visual c++,0.7777777777777778
+json.net,c#,0.7777777777777778
+laravel-5,php,0.7755102040816326
+dplyr,supervise correctional procedures,0.7741935483870968
+android-layout,android (mobile operating systems),0.7717391304347826
+android-activity,android (mobile operating systems),0.7692307692307693
+tensorflow,python (computer programming),0.7647058823529411
+javafx,write javanese,0.7647058823529411
+android-viewpager,android (mobile operating systems),0.7647058823529411
+ecmascript-6,javascript,0.7647058823529411
+python-2.7,python (computer programming),0.7636363636363637
+dynamics-crm-2011,c#,0.75
+flask,python (computer programming),0.75
+data.table,supervise correctional procedures,0.75
+keras,python (computer programming),0.75
+jaxb,write javanese,0.75
+win-universal-app,c#,0.75
+sequelize.js,javascript,0.75
+clang,microsoft visual c++,0.75
+anaconda,python (computer programming),0.75
+c++20,microsoft visual c++,0.75
+angular2-routing,typescript,0.75
+argparse,python (computer programming),0.75
+angular2-forms,angular,0.75
+android-5.0-lollipop,android (mobile operating systems),0.75
+prestashop,php,0.75
+android-recyclerview,android (mobile operating systems),0.7450980392156863
+textview,android (mobile operating systems),0.7368421052631579
+android-emulator,android (mobile operating systems),0.7368421052631579
+jpa,write javanese,0.7358490566037735
+arraylist,write javanese,0.7333333333333333
+extjs,javascript,0.7333333333333333
+swing,write javanese,0.7297297297297297
+pandas,python (computer programming),0.728
+mysqli,php,0.7272727272727273
+java-stream,write javanese,0.7272727272727273
+python-typing,python (computer programming),0.7272727272727273
+google-maps-api-3,javascript,0.7272727272727273
+hibernate,write javanese,0.7241379310344828
+eloquent,php,0.7222222222222222
+shiny,supervise correctional procedures,0.71875
+java-8,write javanese,0.7142857142857143
+doctrine,php,0.7142857142857143
+jasmine,javascript,0.7142857142857143
+jakarta-ee,write javanese,0.7142857142857143
+svg,javascript,0.7083333333333334
+numpy,python (computer programming),0.7047619047619048
+python-3.7,python (computer programming),0.7
+scrapy,python (computer programming),0.6923076923076923
+django,python (computer programming),0.6896551724137931
+entity-framework,c#,0.6823529411764706
+asp.net-core,c#,0.680672268907563
+symfony,php,0.6759776536312849
+doctrine-orm,php,0.675
+twig,php,0.6666666666666666
+mvvm,c#,0.6666666666666666
+ruby-on-rails-4,ruby (computer programming),0.6666666666666666
+plsql,mysql,0.6666666666666666
+android-intent,android (mobile operating systems),0.6666666666666666
+lambda,write javanese,0.6666666666666666
+junit5,write javanese,0.6666666666666666
+next.js,javascript,0.6666666666666666
+rust-cargo,manage frustration,0.6666666666666666
+xdebug,php,0.6666666666666666
+c#-8.0,c#,0.6666666666666666
+wcf,c#,0.6666666666666666
+windows-phone-7,c#,0.6666666666666666
+apache-spark-sql,perform escalation procedure,0.6666666666666666
+autocomplete,javascript,0.6666666666666666
+decorator,python (computer programming),0.6666666666666666
+webrtc,javascript,0.6666666666666666
+angular2-template,angular,0.6666666666666666
+tailwind-css,css,0.6666666666666666
+hdf5,python (computer programming),0.6666666666666666
+d3.js,javascript,0.6551724137931034
+android-gradle-plugin,android (mobile operating systems),0.65
+android-studio,android (mobile operating systems),0.6482758620689655
+spring-webflux,write javanese,0.6428571428571429
+iostream,microsoft visual c++,0.6428571428571429
+vue.js,javascript,0.6407766990291263
+apache-camel,write javanese,0.64
+python-3.x,python (computer programming),0.6387832699619772
+vaadin,write javanese,0.6363636363636364
+yii2,php,0.6363636363636364
+domain-driven-design,c#,0.6363636363636364
+android-notifications,android (mobile operating systems),0.6363636363636364
+mapstruct,write javanese,0.6363636363636364
+in-app-purchase,android (mobile operating systems),0.6363636363636364
+kotlin,android (mobile operating systems),0.6307692307692307
+.net-core,c#,0.627906976744186
+laravel,php,0.625
+redux,typescript,0.625
+bitmap,android (mobile operating systems),0.625
+build.gradle,android (mobile operating systems),0.625
+python-requests,python (computer programming),0.625
+blazor,c#,0.625
+android-espresso,android (mobile operating systems),0.625
+lint,android (mobile operating systems),0.625
+css-selectors,css,0.625
+java-11,write javanese,0.625
+maven-3,apache maven,0.625
+c++14,microsoft visual c++,0.625
+vba,pursue excellence in the creation of food products,0.6206896551724138
+dynamics-crm,c#,0.6153846153846154
+gruntjs,javascript,0.6153846153846154
+git-lfs,keep up with digital transformation of industrial processes,0.6153846153846154
+sqlalchemy,python (computer programming),0.6111111111111112
+wpf,c#,0.6097560975609756
+jenkins-pipeline,jenkins (tools for software configuration management),0.6086956521739131
+junit,write javanese,0.6065573770491803
+codeigniter,php,0.6041666666666666
+dataframe,python (computer programming),0.6029411764705882
+google-apps-script,javascript,0.6
+primefaces,write javanese,0.6
+magento,php,0.6
+t-sql,mysql,0.6
+type-conversion,python (computer programming),0.6
+apache-kafka,write javanese,0.6
+android-view,android (mobile operating systems),0.6
+cors,javascript,0.6
+apache-poi,write javanese,0.6
+setup.py,python (computer programming),0.6
+winforms,c#,0.5844155844155844
+selenium-webdriver,write javanese,0.5833333333333334
+vuejs2,javascript,0.5833333333333334
+android-asynctask,android (mobile operating systems),0.5833333333333334
+rxjs,angular,0.5833333333333334
+css-shapes,css,0.5833333333333334
+uiimageview,biosecurity related to animals,0.5833333333333334
+active-directory,c#,0.5789473684210527
+calendar,write javanese,0.5789473684210527
+bluetooth,android (mobile operating systems),0.5789473684210527
+uicollectionview,biosecurity related to animals,0.575
+flexbox,css,0.5714285714285714
+setuptools,python (computer programming),0.5714285714285714
+xamarin,c#,0.5675675675675675
+c++17,microsoft visual c++,0.5625
+autolayout,biosecurity related to animals,0.5625
+reactjs,javascript,0.5590909090909091
+android-arrayadapter,android (mobile operating systems),0.5555555555555556
+webview,android (mobile operating systems),0.5555555555555556
+qt4,python (computer programming),0.5555555555555556
+resharper,c#,0.5555555555555556
+vtk,python (computer programming),0.5555555555555556
+css-transitions,css,0.5555555555555556
+visual-studio-2017,asp.net,0.5555555555555556
+vsto,c#,0.5555555555555556
+safari,javascript,0.5555555555555556
+core-animation,objective-c,0.5555555555555556
+iis-express,asp.net,0.5555555555555556
+nullpointerexception,android (mobile operating systems),0.5555555555555556
+chart.js,javascript,0.5555555555555556
+apple-push-notifications,biosecurity related to animals,0.5555555555555556
+cdi,write javanese,0.5555555555555556
+c++11,microsoft visual c++,0.5531914893617021
+unity-game-engine,c#,0.55
+git-stash,keep up with digital transformation of industrial processes,0.5454545454545454
+deep-learning,python (computer programming),0.5454545454545454
+spring-boot,write javanese,0.5447154471544715
+google-bigquery,python (computer programming),0.5384615384615384
+sprite-kit,biosecurity related to animals,0.5384615384615384
+twitter-bootstrap-3,css,0.5384615384615384
+xcode6,xcode,0.5384615384615384
+pycharm,python (computer programming),0.5384615384615384
+cypress,javascript,0.5333333333333333
+gwt,write javanese,0.53125
+angularjs,javascript,0.5294117647058824
+silverlight,c#,0.5294117647058824
+asp.net-web-api,c#,0.5263157894736842
+netbeans,write javanese,0.5238095238095238
+swift3,biosecurity related to animals,0.5238095238095238
+webpack,javascript,0.5172413793103449
+uiview,biosecurity related to animals,0.5151515151515151
+asp.net-mvc,c#,0.5102040816326531
+twitter-bootstrap,css,0.5102040816326531
+uitableview,biosecurity related to animals,0.5063291139240507
+linux-kernel,kali linux,0.5
+three.js,javascript,0.5
+jestjs,javascript,0.5
+visual-studio,c#,0.5
+asp-classic,c#,0.5
+woocommerce,php,0.5
+woocommerce,wordpress,0.5
+bluetooth-lowenergy,android (mobile operating systems),0.5
+bluetooth-lowenergy,biosecurity related to animals,0.5
+rx-swift,swift (computer programming),0.5
+rx-swift,biosecurity related to animals,0.5
+spring-security,write javanese,0.5
+spring-security,tend spring making machine,0.5
+knockout.js,javascript,0.5
+mongoose,javascript,0.5
+integer-overflow,manage musical staff,0.5
+jquery-ui,javascript,0.5
+cocoa-touch,biosecurity related to animals,0.5
+asp.net-core-mvc,javascript,0.5
+mocking,write javanese,0.5
+monads,haskell,0.5
+laravel-4,php,0.5
+upload,write javanese,0.5
+ios7,biosecurity related to animals,0.5
+smtp,execute email marketing,0.5
+iterable-unpacking,python (computer programming),0.5
+iterable-unpacking,microsoft visual c++,0.5
+concurrency,write javanese,0.5
+sonarqube,write javanese,0.5
+ionic2,angular,0.5
+compiler-errors,write javanese,0.5
+erlang-otp,erlang,0.5
+erlang-otp,ict debugging tools,0.5
+python-logging,python (computer programming),0.5
+python-logging,monitor logging operations,0.5
+hudson,write javanese,0.5
+hudson,liaise with specialist contractors for well operations,0.5
+joomla2.5,php,0.5
+joomla2.5,joomla,0.5
+uiviewcontroller,biosecurity related to animals,0.5
+uiviewcontroller,objective-c,0.5
+restructuredtext,android (mobile operating systems),0.5
+restructuredtext,javascript,0.5
+ng2-file-upload,php,0.5
+ng2-file-upload,angular,0.5
+shapefile,supervise correctional procedures,0.5
+beamer,process latex mixtures,0.5
+masstransit,c#,0.5
+masstransit,asp.net,0.5
+json-rpc,write javanese,0.5
+json-rpc,restore upholstery of classic cars,0.5
+payment-gateway,php,0.5
+payment-gateway,mysql,0.5
+requirejs,javascript,0.5
+dynamic-variables,manage musical staff,0.5
+dynamic-variables,write javanese,0.5
+eclipse-marketplace,write javanese,0.5
+eclipse-marketplace,eclipse (integrated development environment software),0.5
+loopj,python (computer programming),0.5
+loopj,android (mobile operating systems),0.5
+base-class,c#,0.5
+base-class,attend to detail in casting processes,0.5
+design-principles,manage musical staff,0.5
+design-principles,write javanese,0.5
+seekbar,write javanese,0.5
+seekbar,android (mobile operating systems),0.5
+android-cursor,android (mobile operating systems),0.5
+android-cursor,develop terminology databases,0.5
+http-status-code-404,angular,0.5
+listview,android (mobile operating systems),0.4827586206896552
+actionscript-3,install roof flashing,0.48148148148148145
+google-chrome,javascript,0.48
+qt,microsoft visual c++,0.4765625
+swift3,swift (computer programming),0.47619047619047616
+angular-material,angular,0.47368421052631576
+jquery,javascript,0.4708276797829037
+django-rest-framework,python (computer programming),0.4642857142857143
+variable-assignment,python (computer programming),0.46153846153846156
+gradle,android (mobile operating systems),0.4606741573033708
+vb.net,c#,0.46
+google-sheets,javascript,0.4583333333333333
+java-native-interface,write javanese,0.45454545454545453
+posix,manage musical staff,0.45454545454545453
+posix,kali linux,0.45454545454545453
+node.js,javascript,0.4519650655021834
+fonts,css,0.45
+android-arrayadapter,write javanese,0.4444444444444444
+xcode8,xcode,0.4444444444444444
+automapper,c#,0.4444444444444444
+qt4,microsoft visual c++,0.4444444444444444
+vsto,pursue excellence in the creation of food products,0.4444444444444444
+safari,css,0.4444444444444444
+xcode5,objective-c,0.4444444444444444
+xcode5,xcode,0.4444444444444444
+core-animation,biosecurity related to animals,0.4444444444444444
+titanium,biosecurity related to animals,0.4444444444444444
+iis-express,c#,0.4444444444444444
+jekyll,python (computer programming),0.4444444444444444
+jekyll,write javanese,0.4444444444444444
+nullpointerexception,write javanese,0.4444444444444444
+apple-push-notifications,android (mobile operating systems),0.4444444444444444
+ruby-on-rails-3,ruby (computer programming),0.44
+julia,supervise correctional procedures,0.4375
+iphone,biosecurity related to animals,0.4349315068493151
+ionic-framework,angular,0.43478260869565216
+version-control,keep up with digital transformation of industrial processes,0.43333333333333335
+swiftui,biosecurity related to animals,0.43137254901960786
+visual-c++,microsoft visual c++,0.42857142857142855
+boost,microsoft visual c++,0.42857142857142855
+cmd,assemble windows,0.42857142857142855
+annotations,write javanese,0.42857142857142855
+jdbc,write javanese,0.42424242424242425
+maven-2,write javanese,0.4230769230769231
+bitbucket,keep up with digital transformation of industrial processes,0.42105263157894735
+jsf,write javanese,0.42105263157894735
+file-io,write javanese,0.4166666666666667
+github,keep up with digital transformation of industrial processes,0.4067796610169492
+cmake,microsoft visual c++,0.40425531914893614
+linq-to-xml,c#,0.4
+uml,write javanese,0.4
+google-drive-api,php,0.4
+spring-mvc,write javanese,0.4
+download,python (computer programming),0.4
+overloading,microsoft visual c++,0.4
+overloading,cooperate with education professionals,0.4
+laravel-4,write javanese,0.4
+protocol-buffers,draft scientific or academic papers and technical documentation,0.4
+mongodb-query,depurate shellfish,0.4
+dll,c#,0.4
+ionic2,javascript,0.4
+jquery-mobile,write javanese,0.4
+jquery-mobile,apache maven,0.4
+openlayers-3,javascript,0.4
+openlayers-3,angular,0.4
+setup.py,clean beer pipes,0.4
+uilabel,objective-c,0.4
+react-native,javascript,0.39568345323741005
+ruby-on-rails,ruby (computer programming),0.39473684210526316
+swiftui,swift (computer programming),0.39215686274509803
+generics,write javanese,0.3888888888888889
+google-bigquery,mysql,0.38461538461538464
+typo3,php,0.38461538461538464
+mockito,write javanese,0.38461538461538464
+google-api,javascript,0.38461538461538464
+homebrew,write javanese,0.38461538461538464
+google-maps,android (mobile operating systems),0.38461538461538464
+yii,php,0.38461538461538464
+scroll,android (mobile operating systems),0.38461538461538464
+kendo-ui,angular,0.38461538461538464
+binary,javascript,0.38461538461538464
+xcode6,biosecurity related to animals,0.38461538461538464
+libgdx,write javanese,0.38461538461538464
+ios8,biosecurity related to animals,0.38461538461538464
+messaging,select soap shaping plate,0.38461538461538464
+spring-mvc,tend spring making machine,0.38333333333333336
+django-models,python (computer programming),0.38235294117647056
+intellij-idea,write javanese,0.37681159420289856
+git-submodules,keep up with digital transformation of industrial processes,0.375
+asp-classic,asp.net,0.375
+core-data,biosecurity related to animals,0.375
+http-redirect,c#,0.375
+caching,python (computer programming),0.375
+redux,javascript,0.375
+header,javascript,0.375
+header,execute email marketing,0.375
+integer-overflow,types of barley,0.375
+for-loop,microsoft visual c++,0.375
+msbuild,asp.net,0.375
+microservices,develop blockchain innovative architectures,0.375
+asp.net-core-mvc,c#,0.375
+mocking,python (computer programming),0.375
+localization,javascript,0.375
+gnuplot,manage musical staff,0.375
+gnuplot,write javanese,0.375
+onclick,write javanese,0.375
+onclick,android (mobile operating systems),0.375
+airflow,php,0.375
+ckeditor,c#,0.375
+ckeditor,javascript,0.375
+lint,write javanese,0.375
+java-11,apache maven,0.375
+julia,python (computer programming),0.375
+maven-3,write javanese,0.375
+c++14,kali linux,0.375
+olap,c#,0.375
+olap,asp.net,0.375
+git-config,keep up with digital transformation of industrial processes,0.375
+signal-processing,matlab,0.375
+swagger,c#,0.3684210526315789
+java-native-interface,android (mobile operating systems),0.36363636363636365
+django-templates,python (computer programming),0.36363636363636365
+hash,javascript,0.36363636363636365
+flutter,android (mobile operating systems),0.36363636363636365
+visual-studio-2015,c#,0.36363636363636365
+constructor,microsoft visual c++,0.36363636363636365
+lombok,css,0.36363636363636365
+lombok,eclipse (integrated development environment software),0.36363636363636365
+f#,c#,0.36363636363636365
+playframework,write javanese,0.36363636363636365
+playframework,perform escalation procedure,0.36363636363636365
+git-stash,c#,0.36363636363636365
+yarnpkg,javascript,0.36363636363636365
+yarnpkg,typescript,0.36363636363636365
+material-ui,javascript,0.36363636363636365
+unions,microsoft visual c++,0.36363636363636365
+unions,manage musical staff,0.36363636363636365
+sidebar,python (computer programming),0.36363636363636365
+wix,c#,0.36363636363636365
+wix,asp.net,0.36363636363636365
+azure,c#,0.3620689655172414
+winapi,microsoft visual c++,0.3611111111111111
+opencv,microsoft visual c++,0.359375
+spring-webflux,tend spring making machine,0.35714285714285715
+naming-conventions,c#,0.35714285714285715
+google-cloud-platform,python (computer programming),0.3548387096774194
+cassandra,write javanese,0.3548387096774194
+asynchronous,c#,0.34782608695652173
+apache-spark,python (computer programming),0.3466666666666667
+maven-2,apache maven,0.34615384615384615
+grails,write javanese,0.34375
+selenium,write javanese,0.34285714285714286
+parallel-processing,microsoft visual c++,0.3333333333333333
+oauth-2.0,write javanese,0.3333333333333333
+cakephp,php,0.3333333333333333
+youtube-data-api,css,0.3333333333333333
+database-design,develop terminology databases,0.3333333333333333
+powershell,c#,0.3333333333333333
+facebook,android (mobile operating systems),0.3333333333333333
+zsh,keep up with digital transformation of industrial processes,0.3333333333333333
+data-structures,c#,0.3333333333333333
+asp.net-mvc-3,c#,0.3333333333333333
+asp.net-mvc-3,asp.net,0.3333333333333333
+asp.net-mvc-3,compression moulding machine parts,0.3333333333333333
+xcode8,biosecurity related to animals,0.3333333333333333
+mercurial,microsoft visual c++,0.3333333333333333
+nuget,c#,0.3333333333333333
+webview,javascript,0.3333333333333333
+dns,javascript,0.3333333333333333
+xmpp,android (mobile operating systems),0.3333333333333333
+compilation,perform a feasibility study for building management systems,0.3333333333333333
+fortran,python (computer programming),0.3333333333333333
+fortran,microsoft visual c++,0.3333333333333333
+fortran,c#,0.3333333333333333
+couchdb,assemble windows,0.3333333333333333
+couchdb,keep up with digital transformation of industrial processes,0.3333333333333333
+google-chrome-devtools,javascript,0.3333333333333333
+rabbitmq,c#,0.3333333333333333
+visual-studio-2017,c#,0.3333333333333333
+c#-8.0,microsoft visual c++,0.3333333333333333
+zope,python (computer programming),0.3333333333333333
+zope,ansible,0.3333333333333333
+zope,make radiographic images,0.3333333333333333
+rxjs,typescript,0.3333333333333333
+internationalization,python (computer programming),0.3333333333333333
+internationalization,javascript,0.3333333333333333
+realm,android (mobile operating systems),0.3333333333333333
+realm,biosecurity related to animals,0.3333333333333333
+newline,c#,0.3333333333333333
+autocomplete,write javanese,0.3333333333333333
+decorator,write javanese,0.3333333333333333
+webrtc,evaluate garment quality,0.3333333333333333
+uiimageview,swift (computer programming),0.3333333333333333
+apache-poi,pursue excellence in the creation of food products,0.3333333333333333
+tailwind-css,javascript,0.3333333333333333
+timer,kali linux,0.3333333333333333
+timer,write javanese,0.3333333333333333
+playframework-2.0,write javanese,0.3333333333333333
+playframework-2.0,android (mobile operating systems),0.3333333333333333
+privileges,assemble windows,0.3333333333333333
+privileges,write javanese,0.3333333333333333
+integer,microsoft visual c++,0.3333333333333333
+integer,tune stringed musical instruments,0.3333333333333333
+hdf5,matlab,0.3333333333333333
+ordereddictionary,python (computer programming),0.3333333333333333
+ordereddictionary,c#,0.3333333333333333
+ordereddictionary,edit dictionary entries,0.3333333333333333
+ubuntu,kali linux,0.3275862068965517
+html,javascript,0.32674050632911394
+enums,write javanese,0.3225806451612903
+visual-studio-2010,c#,0.32142857142857145
+jestjs,typescript,0.3181818181818182
+iis,c#,0.3181818181818182
+android-notifications,write javanese,0.3181818181818182
+google-analytics,swift (computer programming),0.3125
+macros,microsoft visual c++,0.3125
+for-loop,write javanese,0.3125
+msbuild,c#,0.3125
+authentication,c#,0.3103448275862069
+dataframe,supervise correctional procedures,0.3088235294117647
+mockito,android (mobile operating systems),0.3076923076923077
+octave,python (computer programming),0.3076923076923077
+octave,matlab,0.3076923076923077
+continuous-integration,write javanese,0.3076923076923077
+scroll,css,0.3076923076923077
+kendo-ui,c#,0.3076923076923077
+kendo-ui,javascript,0.3076923076923077
+syntax,python (computer programming),0.3076923076923077
+libgdx,android (mobile operating systems),0.3076923076923077
+git-lfs,biosecurity related to animals,0.3076923076923077
+ios8,swift (computer programming),0.3076923076923077
+ios8,xcode,0.3076923076923077
+apache-spark,perform escalation procedure,0.30666666666666664
+kubernetes,write javanese,0.30434782608695654
+firebase,android (mobile operating systems),0.30434782608695654
+spring-boot,tend spring making machine,0.3008130081300813

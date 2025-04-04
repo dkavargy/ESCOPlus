@@ -1,5 +1,5 @@
 # ESCOPlus Framework
-[![Documentation Status](https://readthedocs.org/projects/tsfel/badge/?version=latest)](https://tsfel.readthedocs.io/en/latest/?badge=latest) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tsfel)
+[![Documentation Status](https://readthedocs.org/projects/tsfel/badge/?version=latest)](https://tsfel.readthedocs.io/en/latest/?badge=latest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tsfel)
 
 **ESCOPlus** is an open-source framework designed to enhance the ESCO taxonomy by integrating emerging digital skills extracted from community-driven platforms like Stack Overflow. It provides a data-driven, expert-validated extension to ESCO, supporting workforce development, job matching, and curriculum design in the evolving labor market.
 

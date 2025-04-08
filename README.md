@@ -100,7 +100,7 @@ ESCOPLUS-FRAMEWORK/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/escoplus-framework.git
+git clone https://github.com/dkavargy/escoplus-framework.git
 cd escoplus-framework
 pip install -r requirements.txt
 ```
